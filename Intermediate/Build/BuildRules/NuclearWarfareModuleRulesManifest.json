@@ -1,7 +1,7 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\vaggs\\OneDrive\\Documents\\GitHub\\NuclearWarfare\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsEditorPlugin\\BlockoutToolsEditorPlugin.Build.cs",
-		"C:\\Users\\vaggs\\OneDrive\\Documents\\GitHub\\NuclearWarfare\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsPlugin\\BlockoutToolsPlugin.Build.cs"
+		"D:\\Users\\Unreal\\Nuclear-Warfare-master\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsEditorPlugin\\BlockoutToolsEditorPlugin.Build.cs",
+		"D:\\Users\\Unreal\\Nuclear-Warfare-master\\Plugins\\BlockoutToolsPlugin\\Source\\BlockoutToolsPlugin\\BlockoutToolsPlugin.Build.cs"
 	],
 	"EngineVersion": "4.26.2"
 }

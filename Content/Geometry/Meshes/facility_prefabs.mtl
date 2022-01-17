@@ -1,3 +1,86 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aabf745525a1ff90cd305cc2d01bb5d5e57bce16c42b36cf0d23b137426f5ae9
-size 1857
+# Blender MTL File: 'facility_prefabs.blend'
+# Material Count: 8
+
+newmtl Invisible
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.001758 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 226.099976 0.000000 0.062585
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.016066 0.016066 0.016066
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.208447 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 34.800018 6.568779 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl metal
+Ns 65.650175
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump C:\\Users\\mhutf\\Downloads\\TexturesCom_Metal_Galvanized2_1K_normal.tif
+map_Kd C:\\Users\\mhutf\\Downloads\\TexturesCom_Metal_Galvanized2_1K_albedo.tif
+refl C:\\Users\\mhutf\\Downloads\\TexturesCom_Metal_Galvanized2_1K_metallic.tif
+
+newmtl walkway
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\mhutf\\Downloads\\TexturesCom_Metal_Threadplate2_1K_albedo.tif
